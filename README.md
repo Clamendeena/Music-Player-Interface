@@ -1,6 +1,8 @@
 # Music-Player-Interface
 
-OVERVIEW: A sleek and innovative music player designed to enhance your listening experience. Music Player Interface brings together a modern and visually appealing interface with powerful functionality, providing a seamless way to enjoy your favorite tunes.
+OVERVIEW: 
+
+A sleek and innovative music player designed to enhance your listening experience. Music Player Interface brings together a modern and visually appealing interface with powerful functionality, providing a seamless way to enjoy your favorite tunes.
 
 FEATURES:
 
